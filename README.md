@@ -11,7 +11,7 @@ Essa primeira etapa será uma prova, divida em parte teórica com X questões e 
 Essa etapa é de extrema importância, pois será determinante para que você passe para a próxima etapa do processo seletivo. Portanto, realize com atenção, calma, e responda com clareza as questões.  
 Você terá até 48h para entregar a realização dessa etapa.  
   
-Para a entrega da prova, você tem que seguir as seguintes regras.  
+Para a entrega da prova, você tem que seguir as seguintes [regras](https://github.com/gustavomathias/bighouseweb/blob/master/regras.md).  
   
 Após a entrega do exercício, aguarde que entraremos em contato para lhe informar sobre o resultado.  
   
