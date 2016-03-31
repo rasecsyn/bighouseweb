@@ -20,16 +20,16 @@ Boa prova!
 ____
 
 ##Questionário
- lista
+- lista
 ##Exercícios
- HTML/CSS/JavaScript
-  exercício 01
-  exercício 02
- exercício 03
- exercício 04
- exercício 05
- exercício 06
- exercício 07
- exercício 08
- exercício 09
- exercício 10
+- HTML/CSS/JavaScript
+-  [exercício 01](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio1.md)
+-  exercício 02
+- exercício 03
+- exercício 04
+- exercício 05
+- exercício 06
+- exercício 07
+- exercício 08
+- exercício 09
+- exercício 10
