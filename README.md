@@ -21,10 +21,11 @@ ____
 
 ##Questionário
 - lista
+  
 ##Exercícios
 - HTML/CSS/JavaScript
 -  [exercício 01](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio1.md)
--  exercício 02
+-  [exercício 02](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio2.md)
 - exercício 03
 - exercício 04
 - exercício 05
