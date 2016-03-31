@@ -16,3 +16,20 @@ Para a entrega da prova, você tem que seguir as seguintes [regras](https://gith
 Após a entrega do exercício, aguarde que entraremos em contato para lhe informar sobre o resultado.  
   
 Boa prova!
+
+____
+
+##Questionário
+ lista
+##Exercícios
+ HTML/CSS/JavaScript
+  exercício 01
+  exercício 02
+ exercício 03
+ exercício 04
+ exercício 05
+ exercício 06
+ exercício 07
+ exercício 08
+ exercício 09
+ exercício 10
