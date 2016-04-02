@@ -7,7 +7,7 @@ Crie uma arquitetura MVC utilizando a linguagem PHP, este sistema não precisa t
 - Conexão com DB.
 
   
-_Obs: não se esqueça de enviar o arquivo .sql junto para que possa ser feito os teste._
+_Obs: não se esqueça de enviar o arquivo .sql junto para que possa ser feito os testes._
 
 [voltar para tela inicial](https://github.com/gustavomathias/bighouseweb/blob/master/README.md)
 
