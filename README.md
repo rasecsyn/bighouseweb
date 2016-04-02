@@ -28,3 +28,4 @@ ____
 - [exercício 03](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio3.md)
 - [exercício 04](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio4.md)
 - [exercício 05](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio5.md)
+- [exercício 06](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio6.md)
