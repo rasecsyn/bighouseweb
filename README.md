@@ -9,7 +9,7 @@ Analisamos o seu currículo e você foi selecionado para participar da primeira 
   
 Essa primeira etapa será uma prova prática com seis exercícios. 
 Essa etapa é de extrema importância, pois será determinante para que você passe para a próxima etapa do processo seletivo. Portanto, realize com atenção, calma, e responda com clareza as questões.  
-Você terá até 48h para entregar a realização dessa etapa.  
+Você terá até 4 dias úteis para entregar a realização dessa etapa.  
   
 Para a entrega da prova, você tem que seguir as seguintes [regras](https://github.com/gustavomathias/bighouseweb/blob/master/regras.md).  
   
