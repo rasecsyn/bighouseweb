@@ -4,7 +4,7 @@ Crie uma arquitetura MVC utilizando a linguagem PHP, este sistema não precisa t
 
 - OOP (Programação Orientado a Objetos).
 - CRUD
-- Conexão com DB utilizando PDO ou MySQLi.
+- Conexão com DB.
 
   
 _Obs: não se esqueça de enviar o arquivo .sql junto para que possa ser feito os teste._
