@@ -6,8 +6,8 @@ Antes de começar a fazer a prova, você precisa ter um perfil no GitHub, e faze
 Os exercícios possuem o seguinte padrão.  Será criado uma pasta com o nome `bhwe_XX_nomecompleto` dentro da pasta `respostas` que você deve criar. Sendo que o nome é formado pela sigla `bhwe`, número do exercício e nome completo do candidato. exemplo: 
   
 - respostas
--- bhw_01_nomecompleto
--- bhw_02_nomecompleto
+	- bhw_01_nomecompleto
+	- bhw_02_nomecompleto
   
   
 
