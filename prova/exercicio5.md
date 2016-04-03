@@ -1,4 +1,4 @@
-#Exercício 06
+#Exercício 05
 	
 Parabéns.  
 Agora que tu finalizou os exercícios, faça um _pull request_ para que eu corrija seus exercícios.  

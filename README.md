@@ -7,7 +7,7 @@ Desenvolvemos Sites, E-commerces e Sistemas, criamos e desenvolvemos projetos pa
   
 Analisamos o seu currículo e você foi selecionado para participar da primeira etapa do processo de seleção para a vaga de Programador.  
   
-Essa primeira etapa será uma prova prática com seis exercícios. 
+Essa primeira etapa será uma prova prática com cinco exercícios. 
 Essa etapa é de extrema importância, pois será determinante para que você passe para a próxima etapa do processo seletivo. Portanto, realize com atenção, calma, e responda com clareza as questões.  
 Você terá até 4 dias úteis para entregar a realização dessa etapa.  
   
@@ -25,4 +25,3 @@ ____
 - [exercício 03](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio3.md)
 - [exercício 04](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio4.md)
 - [exercício 05](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio5.md)
-- [exercício 06](https://github.com/gustavomathias/bighouseweb/blob/master/prova/exercicio6.md)
