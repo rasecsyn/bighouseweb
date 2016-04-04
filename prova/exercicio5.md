@@ -1,7 +1,7 @@
 #Exercício 05
 	
 Parabéns.  
-Agora que tu finalizou os exercícios, faça um _pull request_ para que eu corrija seus exercícios.  
+Agora que você finalizou os exercícios, faça um _pull request_ para que corrijamos seus exercícios.  
 Em breve, entraremos em contato.
 
 [voltar para tela inicial](https://github.com/gustavomathias/bighouseweb/blob/master/README.md)

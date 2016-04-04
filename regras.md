@@ -3,7 +3,7 @@
   
 Antes de começar a fazer a prova, você precisa ter um perfil no GitHub, e fazer um __fork__ para que tenha uma copia da prova.  
   
-Os exercícios possuem o seguinte padrão.  Será criado uma pasta com o nome `bhwe_XX_nomecompleto` dentro da pasta `respostas` que você deve criar. Sendo que o nome é formado pela sigla `bhwe`, número do exercício e nome completo do candidato. exemplo: 
+Os exercícios possuem o seguinte padrão: será criado uma pasta com o nome `bhwe_XX_nomecompleto` dentro da pasta `respostas` que você deve criar, sendo que o nome é formado pela sigla `bhwe`, o número do exercício e nome completo do candidato. Exemplo: 
   
 - respostas
 	- bhw_01_nomecompleto

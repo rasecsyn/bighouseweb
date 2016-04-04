@@ -2,7 +2,7 @@
 
 Prezado Candidato,  
 
-Somos a Big House Web.  
+Somos a BigHouseWeb.  
 Desenvolvemos Sites, E-commerces e Sistemas, criamos e desenvolvemos projetos para empresas que procuram todos os tipos de serviços na internet, como Criação de sites, Otimização em SEO, Adwords, Aplicativos, Programação, Loja virtual e muito mais.  
   
 Analisamos o seu currículo e você foi selecionado para participar da primeira etapa do processo de seleção para a vaga de Programador.  

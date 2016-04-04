@@ -1,6 +1,6 @@
 #Exercício 03
 	
-Crie uma arquitetura MVC utilizando a linguagem PHP, este sistema não precisa ter uma funcionalidade mas tem que ter as seguintes funções:
+Crie uma arquitetura MVC utilizando a linguagem PHP, este sistema não precisa ter uma funcionalidade, mas tem de ter as seguintes funções:
 
 - OOP (Programação Orientado a Objetos).
 - CRUD
