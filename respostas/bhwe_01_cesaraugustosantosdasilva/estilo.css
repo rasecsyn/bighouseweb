@@ -2,17 +2,29 @@ body{
     background-color: #FFFFFF;
     font-family: sans-serif;
     font-size: 21px;
+    margin: 0px;
 }
 
 
 #barratopo{
     height: 80px;
-    margin-top: 0%;
     background: #79848e;
     z-index: 99999;
-    position: inherit;
+    position: relative;
     width: 100%;
 
+}
+
+#slides {
+    background-color: #26bdef;
+    height: 480px;
+    font-style: inherit;
+    color: #FFFFFF;
+    font-size: 36px;
+    text-align: justify;
+    position: relative;
+    padding: 29px 15px 0 15px;
+ 
 }
 
 #news{
@@ -24,15 +36,16 @@ body{
     font-size: 14px;
     line-height: 20px;
     background-color: #26bdef;
-
-
-
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
 
 }
 
 .conteudo{
-    margin-top: 2%;
-    text-align: justify;
+    margin: 30px;
+    text-align: center;
 
    
 }
