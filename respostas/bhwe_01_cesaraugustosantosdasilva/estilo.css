@@ -1,0 +1,53 @@
+body{
+    background-color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 21px;
+}
+
+
+#barratopo{
+    height: 80px;
+    margin-top: 0%;
+    background: #79848e;
+    z-index: 99999;
+    position: inherit;
+    width: 100%;
+
+}
+
+#news{
+    width: auto;
+    height: 70px;
+    margin-top: 20%;
+    position: relative;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #26bdef;
+
+
+
+
+}
+
+.conteudo{
+    margin-top: 2%;
+    text-align: justify;
+
+   
+}
+
+#rodapebarra{
+    height: 80px;
+    background: #79848e;
+    z-index: 99999;
+    position: inherit;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    background-color: #79848e;
+    color: #FFFFFF;
+    height: 400px;
+    font-size: 10pt;
+
+}
